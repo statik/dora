@@ -12,10 +12,12 @@ URL: https://github.com/statik/dora
 BugReports: https://github.com/statik/dora/issues
 Imports: 
     cli,
+    dplyr,
     ggplot2,
     gh,
     glue,
     lifecycle,
+    lubridate,
     rlang,
     withr
 Suggests: 
