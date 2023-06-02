@@ -1,0 +1,18 @@
+Package: dora
+Title: Measure DevOps DORA Metrics
+Version: 0.0.0.9000
+Authors@R: 
+    person("Elliot", "Murphy", , "elliot@elliotmurphy.com", role = c("aut", "cre"))
+Description: An implementation of the key metrics for measuring
+  fast delivery of reliable software. The DORA metrics are
+  1. Change Lead Time
+  2. Deployment Frequency
+  3. Mean Time to Recovery
+  4. Change Failure Rate
+License: MIT + file LICENSE
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
