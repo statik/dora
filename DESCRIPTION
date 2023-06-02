@@ -8,7 +8,8 @@ Description: An implementation of the key metrics for measuring fast
     Time 2. Deployment Frequency 3. Mean Time to Recovery 4. Change
     Failure Rate
 License: MIT + file LICENSE
-URL: https://github.com/statik/dora
+URL: https://github.com/statik/dora,
+    https://statik.github.io/dora/
 BugReports: https://github.com/statik/dora/issues
 Imports: 
     cli,
