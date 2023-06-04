@@ -12,6 +12,7 @@ An implementation of the key metrics for measuring fast delivery of reliable sof
 Useful links:
 \itemize{
   \item \url{https://github.com/statik/dora}
+  \item \url{https://statik.github.io/dora/}
   \item Report bugs at \url{https://github.com/statik/dora/issues}
 }
 
