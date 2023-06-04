@@ -34,8 +34,8 @@ The DORA metrics are
 
 You can install the development version of dora like so:
 
-``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+```r
+remotes::install_github("statik/dora")
 ```
 
 ## Example
@@ -43,7 +43,7 @@ You can install the development version of dora like so:
 This is a basic example which shows you how to solve a common problem:
 
 ```{r example}
-library(dora)
+#library(dora)
 ## basic example code
 ```
 
