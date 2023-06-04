@@ -20,7 +20,7 @@ jobs:
       - uses: r-lib/actions/setup-pandoc@v2
 
       - run: |
-        sudo apt install -y \
+          sudo apt install -y \
           libcurl4-openssl-dev \
           libharfbuzz-dev libfribidi-dev
 
